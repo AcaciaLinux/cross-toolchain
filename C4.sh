@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 set -e
 
@@ -20,6 +20,7 @@ done
 
 case $(uname -m) in
   x86_64) mkdir -pv $LFS/lib64 ;;
+  aarch64) mkdir -pv $LFS/lib64 ;;
 esac
 
 mkdir -pv $LFS/tools
@@ -31,6 +32,7 @@ useradd -s /bin/bash -g lfs -m -k /dev/null lfs | true
 
 passwd -d lfs
 
+chown -v lfs $LFS
 chown -v lfs $LFS/{usr{,/*},lib,var,etc,bin,sbin,tools}
 case $(uname -m) in
   x86_64) chown -v lfs $LFS/lib64 ;;
