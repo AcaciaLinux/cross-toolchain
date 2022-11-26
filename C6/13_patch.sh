@@ -2,7 +2,7 @@
 
 set -e
 
-NAME=path
+NAME=patch
 VERSION=2.7.6
 
 if [ -z ${LFS} ];
