@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=sed
 VERSION=4.8
 

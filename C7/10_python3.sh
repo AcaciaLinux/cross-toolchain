@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=Python
 VERSION=3.10.6
 

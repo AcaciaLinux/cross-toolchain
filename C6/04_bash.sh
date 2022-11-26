@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=bash
 VERSION=5.1.16
 

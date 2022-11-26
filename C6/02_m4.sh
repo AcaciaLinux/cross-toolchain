@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=m4
 VERSION=1.4.19
 

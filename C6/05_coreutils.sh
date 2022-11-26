@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=coreutils
 VERSION=9.1
 

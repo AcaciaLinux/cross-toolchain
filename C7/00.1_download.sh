@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 GETTEXT_VERSION=0.21
 BISON_VERSION=3.8.2
 PERL_VERSION=5.36.0

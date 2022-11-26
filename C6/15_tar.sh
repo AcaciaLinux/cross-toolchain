@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=tar
 VERSION=1.34
 

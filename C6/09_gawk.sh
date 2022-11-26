@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=gawk
 VERSION=5.1.1
 

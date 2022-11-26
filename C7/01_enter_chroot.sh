@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 if [ "$EUID" -ne 0 ]
   then echo "This scripts needs to be run as root"
   exit

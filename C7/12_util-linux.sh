@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=util-linux
 VERSION=2.38.1
 

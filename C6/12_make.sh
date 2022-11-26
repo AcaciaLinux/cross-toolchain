@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=make
 VERSION=4.3
 

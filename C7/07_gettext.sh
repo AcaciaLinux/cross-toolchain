@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=gettext
 VERSION=0.21
 

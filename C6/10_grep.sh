@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=grep
 VERSION=3.7
 

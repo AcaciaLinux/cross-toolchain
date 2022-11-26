@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 ## 7.5 - Creating directories
 
 mkdir -pv /{boot,home,mnt,opt,srv}

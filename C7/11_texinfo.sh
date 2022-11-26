@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=texinfo
 VERSION=6.8
 

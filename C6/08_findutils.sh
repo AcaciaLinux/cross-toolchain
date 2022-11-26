@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=findutils
 VERSION=4.9.0
 

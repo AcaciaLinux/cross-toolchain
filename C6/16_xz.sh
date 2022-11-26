@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=xz
 VERSION=5.2.6
 

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=file
 VERSION=5.42
 

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=perl
 VERSION=5.36.0
 

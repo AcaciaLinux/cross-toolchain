@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=ncurses
 VERSION=6.3
 

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=bison
 VERSION=3.8.2
 

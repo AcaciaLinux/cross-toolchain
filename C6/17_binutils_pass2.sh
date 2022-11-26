@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=binutils
 VERSION=2.39
 

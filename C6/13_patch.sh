@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=patch
 VERSION=2.7.6
 

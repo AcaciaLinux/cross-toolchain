@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=diffutils
 VERSION=3.8
 

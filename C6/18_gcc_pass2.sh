@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 NAME=gcc
 VERSION=12.2.0
 
